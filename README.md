@@ -34,7 +34,7 @@ Management and cross-functional collaboration across Software Development and En
 
 <br>
 
-<div style="text-align:center"><a href="https://github.com/IERoboticsClub"><img style="border-radius:25%"src="./assets/roboticslogo.jpg" width="20%"  /></a></div>
+<div style="text-align:center"><a href="https://github.com/purvesh1"><img style="border-radius:25%"src="./assets/roboticslogo.jpg" width="20%"  /></a></div>
 
 <br>
 
