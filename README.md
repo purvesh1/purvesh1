@@ -34,7 +34,7 @@ Management and cross-functional collaboration across Software Development and En
 
 <br>
 
-<div style="text-align:center"><a href="https://github.com/purvesh1"><img style="border-radius:25%"src="./assets/roboticslogo.jpg" width="20%"  /></a></div>
+<div style="text-align:center"><a href="https://github.com/purvesh1](https://github.com/purvesh1/Fleet-Fuel-Manager.git"></a></div>
 
 <br>
 
@@ -89,33 +89,12 @@ Management and cross-functional collaboration across Software Development and En
 
 
 ## 🛠 Full-stack development
-## 👾 Games
-
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="">
-          <img src="" width="380" />
-        </a>
-      </td>
-      <td>
-        <a href="">
-          <img src="" width="380" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<br>
-
 
 <br>
 
 ## 📚 Education
 
-- **Master's in Management in Business Analytics** at *IE University* (Expected: Dec 2023)
+- **Master's in Management (Business Analytics)** at *IE University* (Graduated: Dec 2023)
 - **Bachelor's of Technology in Mechanical Engineering** at *Indian Insititue of Technology Bombay* (Graduated: 2020)
 
 <br>
